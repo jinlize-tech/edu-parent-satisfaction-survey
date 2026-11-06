@@ -1,0 +1,24 @@
+{
+  "number": 61,
+  "product_id": "JLZ-EDU-SK-049",
+  "chinese_name": "家长满意度调查",
+  "english_name": "Parent Satisfaction Survey",
+  "repository_name": "edu-parent-satisfaction-survey",
+  "product_type": "Skill",
+  "category": "05 家校服务中心",
+  "version": "1.0.0",
+  "status": "PACKAGE_READY",
+  "workbuddy_validation": "NOT_VERIFIED",
+  "license": "Apache-2.0",
+  "baseline_tag": "education-product-baseline-v1.0.0",
+  "package_path": "dist/edu-parent-satisfaction-survey-v1.0.0.zip",
+  "calculator": false,
+  "core_input": "调查目标、家长群体、服务环节、题量、匿名要求和统计口径",
+  "main_output": "问卷结构、题目、选项、开放题、发放说明、统计模板和风险提示",
+  "package_entries": [
+    "edu-parent-satisfaction-survey/SKILL.md",
+    "edu-parent-satisfaction-survey/references/DOMAIN_GUIDE.md",
+    "edu-parent-satisfaction-survey/references/EXAMPLES.md",
+    "edu-parent-satisfaction-survey/templates/OUTPUT_TEMPLATE.md"
+  ]
+}

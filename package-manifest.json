@@ -1,0 +1,18 @@
+{
+  "product_id": "JLZ-EDU-SK-049",
+  "repository_name": "edu-parent-satisfaction-survey",
+  "product_type": "Skill",
+  "version": "1.0.0",
+  "package_path": "dist/edu-parent-satisfaction-survey-v1.0.0.zip",
+  "sha256": "734956AB11960EECEB884A642E6E623C3E02F49BE64D8B83A6641B1432A2B5A5",
+  "bytes": 4876,
+  "entries": [
+    "edu-parent-satisfaction-survey/SKILL.md",
+    "edu-parent-satisfaction-survey/references/DOMAIN_GUIDE.md",
+    "edu-parent-satisfaction-survey/references/EXAMPLES.md",
+    "edu-parent-satisfaction-survey/templates/OUTPUT_TEMPLATE.md"
+  ],
+  "built_at": "2026-11-06T22:41:19.2065693+08:00",
+  "status": "PACKAGE_READY",
+  "workbuddy_validation": "NOT_VERIFIED"
+}
